@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="kac-parser",
-    version="0.0.1",
+    version="0.0.2",
     author="vitorbaraujo",
     author_email="vitornga15@gmail.com",
     description="A python parser for Keep a Changelog changelog convention",
@@ -15,7 +15,7 @@ setuptools.setup(
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: OS independent",
+        "Operating System :: OS Independent",
     ],
     python_requires='>=3.6'
 )
