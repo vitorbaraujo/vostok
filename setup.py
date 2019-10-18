@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="vostok",
-    version="0.0.3",
+    version="0.1.0",
     author="vitorbaraujo",
     author_email="vitornga15@gmail.com",
     description="A chagelog parser for Keep a Changelog format",
